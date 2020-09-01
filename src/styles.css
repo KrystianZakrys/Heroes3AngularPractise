@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: darkblue;
+    color: goldenrod;
+}
+
+h1{
+    text-align: center;
+    color: gold;
+}
+
+ul  {
+    list-style: square inside url("https://merri.net/gfx/pointer-medium-100.png");
+  }
+
+  .selected{
+      font-weight: bolder;
+  }
